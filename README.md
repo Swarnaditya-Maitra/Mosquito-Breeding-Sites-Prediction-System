@@ -14,8 +14,10 @@ We propose a mosquito breeding sites prediction system that leverages IoT techno
 
 5) Check environmental parameters for thresholds, ranges, and probabilistic results. AWS Lambda functions are implemented. When appropriate conditions are satisfied, it means mosquito-breeding prone areas. The appropriate notification is sent to the UI, through Amazon API Gateway.
 
-The UI is a basic UI with the updated features being a live updation of the summary and reports that are generated in the AWS Backend. 
-The Technologies used include:
+# Technologies Used
+
+The UI is a basic one, with the updated features being a live updation of the summary and reports that are generated in the AWS Backend. 
+The major technologies used include:
 1) Google Earth and Surfer Software
 2) Environmental Sensors (Details in the report)
 3) ESP8266 and Raspberry Pi micro-controllers
